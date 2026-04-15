@@ -1,0 +1,11 @@
+1
+bag
+black backpack
+2
+bag
+black nike bag
+3
+bag
+4
+y
+5
