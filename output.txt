@@ -1,0 +1,49 @@
+=== Lost and Found System ===
+1. Add Lost item
+2. Add Found item
+3. Search by category
+4. Match items
+5. Exit
+Enter choice: Enter category: Enter description: Item added successfully. ID is 101
+
+=== Lost and Found System ===
+1. Add Lost item
+2. Add Found item
+3. Search by category
+4. Match items
+5. Exit
+Enter choice: Enter category: Enter description: Item added successfully. ID is 102
+
+=== Lost and Found System ===
+1. Add Lost item
+2. Add Found item
+3. Search by category
+4. Match items
+5. Exit
+Enter choice: Enter category to search: 
+-- LOST ITEMS --
+ID: 101 | Desc: black backpack | Status: Pending
+
+-- FOUND ITEMS --
+ID: 102 | Desc: black nike bag | Status: Pending
+
+=== Lost and Found System ===
+1. Add Lost item
+2. Add Found item
+3. Search by category
+4. Match items
+5. Exit
+Enter choice: 
+--- Matcher ---
+Potential match found!
+Lost  -> ID: 101 | black backpack
+Found -> ID: 102 | black nike bag
+Match them? (y/n): Matched successfully!
+
+=== Lost and Found System ===
+1. Add Lost item
+2. Add Found item
+3. Search by category
+4. Match items
+5. Exit
+Enter choice: Exiting...
